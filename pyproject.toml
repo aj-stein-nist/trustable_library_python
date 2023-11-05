@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "trustable-library-python"
+name = "trustable_library"
 version = "0.1.0"
 description = "An example library in Python. Maybe you want to trust it, maybe you don't?"
 authors = ["A.J. Stein <alexander.stein@nist.gov>"]
